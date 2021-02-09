@@ -1,0 +1,11 @@
+.author-avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 100px;
+  height: 100px;
+}
+.author-avatar img {
+  width: 100%;
+  max-width: 110px;
+  border-radius: 50%;
+}
